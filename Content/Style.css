@@ -1,0 +1,89 @@
+body{
+    
+    position: relative;
+    background-color: background: #c31432;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    ;
+}
+.container{
+    color: white;
+    text-align: center;
+    
+        }
+       
+p{
+    border: 2px solid rgb(247, 45, 122);
+    padding: 4px;
+   
+}
+    
+.navbar{
+    position: fixed;
+    
+    z-index: 10;
+    background-color: background: #c31432;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    ;
+    
+}
+
+.navbar a{
+    color: rgb(20, 209, 77) !important;
+     
+}
+.navbar a:hover{
+    color: rgb(138, 230, 32) !important;
+     
+}
+.navbar a:active{
+    color: rgb(20, 59, 235) !important;
+     
+}
+
+h1, h3,h2{
+    color:rgb(23, 182, 3);
+    margin-bottom: 10px;
+    margin-top: 30px;
+    
+}
+img{
+    width: 80%;
+    margin-top: 100px;
+}
+.card{
+    
+    background-color: background: #c31432;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    ;
+    color:rgb(23, 182, 3);
+    
+}
+div h5{
+    text-align: center;
+    font-weight: bolder;
+    
+}
+.card img{
+    height: 350px;
+    width: 200;
+}
+#Resume {
+    margin-top: 55px;
+}
+#CarouselP img{
+    width: 300px;
+    height: 650px;
+
+}
+#CarouselP {
+    margin-bottom: 100px;
+    margin-top: 90px !important;
+   
+}
+#CarouselP h2{
+    text-align: center;
+    padding-bottom: 0;
+}
